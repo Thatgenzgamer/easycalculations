@@ -9,8 +9,8 @@ Input:<br>
 `Calc.calc(subtract, 1, 2)`<br><br>
 
 Output:<br>
-`3<br>
-0.5<br>
-2<br>
--1`
+`3`<br>
+`0.5`<br>
+`2`<br>
+`-1`
 
